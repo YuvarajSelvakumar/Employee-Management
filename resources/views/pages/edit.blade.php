@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="container py-5">
-    <h2 class="text-center mb-5 text-gradient fw-bold">✏️ Edit Employee Details</h2>
+    <h2 class="text-center mb-5 text-gradient fw-bold">✏️ Edit Employee Details form</h2>
 
     <div class="row justify-content-center">
         <div class="col-lg-8">
